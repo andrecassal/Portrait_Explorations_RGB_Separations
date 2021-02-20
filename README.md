@@ -1,2 +1,2 @@
-# Portrait_Explorations_RGB_Separations
+# Portrait_Explorations
 Created with CodeSandbox
